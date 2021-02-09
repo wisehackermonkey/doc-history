@@ -6,9 +6,8 @@
 -----
 [![Node](https://img.shields.io/badge/Javascript-Enabled-lightgreen.svg)](https://shields.io/) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/).
 
-<!-- <img src="screenshots/cover_animation.gif" height="700"> -->
+<img src="2021-02-09-13-12-27.png" height="700">
 
- 
 ## Install & run
 #### Npm
 ```bash
@@ -16,6 +15,10 @@ npm install --global doc-history
 ```
 <!-- <img src="screenshots/2021-02-08-22-54-08.png" height="300"> -->
 
+## Usage:
+```bash
+doc-history -n 10
+```
 
 # How it works
 ### what i would do before doc-history
@@ -104,6 +107,17 @@ npm uninstall --global doc-history
 list install global deps
 npm ls -g --depth=0
 ```
+## how to publish package
+
+```bash
+npm login
+npm publish
+npm uninstall --global doc-history
+npm install --global doc-history
+```
+
+
+------
 
 # Future Additions
 - Fuzzy matching  EX:
