@@ -4,7 +4,7 @@
   "description": "copies a cleaned up version of your previous commands to the clipboard to use in making documentation easier",
   "main": "./bin/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"I'm not doing testing...\" && exit 0"
   },
   "repository": {
     "type": "git",
