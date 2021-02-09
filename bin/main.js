@@ -15,7 +15,7 @@ const { exec } = require('child_process');
 
 
 
-const greeting = chalk.white.bold("Doc-history:")
+const greeting = chalk.white.bold("Doc-history: ")
 const DEFAULT_NUM_LINES = 50;
 
 // display a pretty command-line box
