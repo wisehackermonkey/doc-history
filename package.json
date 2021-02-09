@@ -1,6 +1,6 @@
 {
   "name": "doc-history",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "copies a cleaned up version of your previous commands to the clipboard to use in making documentation easier",
   "main": "./bin/main.js",
   "scripts": {
