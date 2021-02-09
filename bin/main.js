@@ -113,7 +113,6 @@ let process_windows_history_text = (input, num_lines) => {
 
 
 if (options.number) {
-    console.log(boxen(chalk.white.bold("Number of lines: TODO"), boxenOptions));
     main(options.number);
 } else {
 
