@@ -104,6 +104,15 @@ npm uninstall --global doc-history
 list install global deps
 npm ls -g --depth=0
 ```
+
+# Future Additions
+- Fuzzy matching  EX:
+##### these get remove 
+```
+powershell.exe /version
+powershell.exe \version
+```
+- wizard that asks about to pick which ones you want to keep
 # Contributors
 <a href="https://github.com/wisehackermonkey/doc-history/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wisehackermonkey/doc-history" />

@@ -33,5 +33,8 @@
     "shell-history": "^1.1.0",
     "underscore": "^1.12.0",
     "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
   }
 }
