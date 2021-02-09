@@ -111,6 +111,7 @@ npm ls -g --depth=0
 
 ```bash
 npm login
+npm version minor
 npm publish
 npm uninstall --global doc-history
 npm install --global doc-history
