@@ -116,7 +116,7 @@ npm version minor
 OR
 npm version patch
 
-npm publish
+npm publish --access=public
 npm uninstall --global doc-history
 npm install --global doc-history
 ```
